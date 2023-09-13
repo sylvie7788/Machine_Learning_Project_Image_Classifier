@@ -35,6 +35,5 @@ My guidance:
 
 # Sentiment and NMist Result
 
-[comment]: <> (![nmist result]&#40;%20nmist_result.jpeg&#41;   )
-
-[comment]: <> (![sentiment result]&#40;sentiment_result.jpeg&#41;        )
+![nmist result](%20nmist_result.jpeg)   
+![sentiment result](sentiment_result.jpeg)        
